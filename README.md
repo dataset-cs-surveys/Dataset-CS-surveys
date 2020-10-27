@@ -19,5 +19,7 @@ AVAILABLE FILES
     VisualizationExperts_Responses.pdf contains descriptive statistics of the responses produced by the software visualization experts.
 
 REFERENCES
+
 [1] Authors omitted due to ongoing double-blind review process (2020), Code smells detection and visualization: A systematic literature review.
+
 [2] Merino L, Ghafari M, Anslow C, Nierstrasz O (2018) A systematic literature review of software visualization evaluation. Journal of Systems and Software, 144:165 –180, Elsevier, DOI https://doi.org/10.1016/j.jss.2018.06.027
